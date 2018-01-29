@@ -1,0 +1,10 @@
+package-lock.json 
+npm-debug.log 
+node_modules
+.DS_Store
+*.log
+*.out
+*.gz
+*.orig
+yarn.lock
+.env

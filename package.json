@@ -1,0 +1,17 @@
+{
+  "name": "registry",
+  "version": "0.0.1",
+  "description": "Test OC-registry with Riak as storage",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "John Parnefjord",
+  "license": "MIT",
+  "dependencies": {
+    "oc": "^0.42.19",
+    "oc-riak-storage-adapter": "0.0.4",
+    "oc-template-jade": "^6.0.9",
+    "oc-template-react": "^2.0.3"
+  }
+}
